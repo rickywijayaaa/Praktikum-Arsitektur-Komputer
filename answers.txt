@@ -1,0 +1,25 @@
+[Jawaban Praktikum 02 Arsitektur Komputer]
+Nama: Ricky Wijaya
+NIM : 18222043
+Kelas : K01
+
+[Soal 1 : Beginning]
+Jawaban : Can you see it? The tears in these eyes are blurring into the colors of my life
+
+[Soal 2 : Black_Rose]
+Jawaban : 1 2 4 7 28 33
+
+[Soal 3 : Metropolis]
+Jawaban : 1 g 653
+
+[Soal 4 : Sky_Street]
+Jawaban : 4 16807
+
+[Soal 5 : Dragon]
+Jawaban : dibmeo
+
+[Soal 6 : Heaven]
+Jawaban : 3848
+
+[Soal 7 : Sevensref]
+Jawaban : 7 72
